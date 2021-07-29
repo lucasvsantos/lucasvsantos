@@ -4,7 +4,7 @@ Me chamo Lucas, comecei no mundo do TI no ano de 2018 faltando 1 semestre para a
 ### Tecnologias
 Abaixo uma lista de algumas das tecnologias que já utilizei/utilizo no dia a dia:
 
-|                |Nível                          |
+|Tecnologia      |Nível                          |
 |----------------|-------------------------------|
 |Java + Spring   | x x x x -                     |
 |APIs REST       | x x x x -                     |
