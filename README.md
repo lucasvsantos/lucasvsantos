@@ -1,5 +1,6 @@
 ## Apresentação
-Me chamo Lucas, comecei no mundo do TI no ano de 2018 faltando 1 semestre para acabar o meu curso de Análise e Desenvolvimento de Sistemas pela FIAP. Desde então sigo trabalhando com tecnologias diversas, mais em específico o Java + Spring Boot e junto com ele vem suas integrações com o DB (MySQL).
+Me chamo Lucas, comecei no mundo do TI no ano de 2018 e fui formado em Análise e Desenvolvimento de Sistemas pela FIAP.
+Desde então sigo trabalhando com tecnologias diversas, por 4 anos da minha carreira trabalhei principalmente com ChatBots, utilizando Java & Spring Boot na arquitetura de microserviços.
 
 ### Tecnologias
 Abaixo uma lista de algumas das tecnologias que já utilizei/utilizo no dia a dia:
@@ -7,7 +8,7 @@ Abaixo uma lista de algumas das tecnologias que já utilizei/utilizo no dia a di
 |Tecnologia      |Nível                          |
 |----------------|-------------------------------|
 |Java + Spring   | x x x x -                     |
-|APIs REST       | x x x x -                     |
+|Microserviços   | x x x x -                     |
 |MySQL           | x x x - -                     |
 |Javascript      | x x - - -                     |
 
